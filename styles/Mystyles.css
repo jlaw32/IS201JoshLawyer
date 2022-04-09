@@ -1,0 +1,72 @@
+.resumeListHeading{
+    font-weight: bold;
+    font-style: normal;
+}
+
+.bright{
+    font-weight: bold;
+    color: white;
+}
+
+.common{
+    position: relative;
+}
+
+.homepg{
+    background-color: rgb(255, 225, 187);
+}
+
+
+.Aboutpg{
+    background-color: rgb(255, 225, 187);
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subheading{
+    font-size: 30px;
+    font-weight: 350;
+    display: block;
+    margin: 10px;
+    font-family: 'Arial, Helvetica, sans-serif';
+    color: white;
+}
+
+
+.bold{
+    font-weight: bold;
+}
+
+.mainbody{
+    font-size: 30px;
+    font-weight: 350;
+    display: block;
+    margin: 10px;
+    font-family: 'Arial, Helvetica, sans-serif';
+    color: white;
+}
+
+.tabpg{
+    background-color: rgb(255, 225, 187);
+}
+
+.Tab{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Tabl{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tabu{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.common{
+    text-align: center ;
+}
